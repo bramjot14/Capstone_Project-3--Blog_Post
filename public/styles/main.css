@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif; /* Use a professional font */
+    background-color: #f8f9fa; /* Light gray background */
+    padding-top: 20px; /* Space at the top */
+}
+.container {
+    max-width: 1200px; /* Limit content width */
+    margin: auto; /* Center align content */
+    padding: 20px; /* Padding inside container */
+    background-color: #ffffff; /* White background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 20px rgba(0,0,0,0.1); /* Soft shadow */
+}
+h1 {
+    text-align: center; /* Center align heading */
+    margin-bottom: 30px; /* Space below heading */
+    color: #343a40; /* Dark color for headings */
+}
+form {
+    margin-bottom: 30px; /* Space below form */
+}
+label {
+    font-size: 1.1rem; /* Larger font size for labels */
+    font-weight: bold; /* Bold labels */
+    color: #495057; /* Dark color for labels */
+}
+.form-control {
+    border-color: #ced4da; /* Light border color */
+}
+.form-select {
+    border-color: #ced4da; /* Light border color */
+}
+.btn-primary {
+    background-color: #007bff; /* Blue primary button */
+    border-color: #007bff; /* Blue border */
+    font-weight: bold; /* Bold button text */
+}
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    border-color: #0056b3; /* Darker border on hover */
+}
+.btn-danger {
+    background-color: #dc3545; /* Red danger button */
+    border-color: #dc3545; /* Red border */
+    font-weight: bold; /* Bold button text */
+}
+.btn-danger:hover {
+    background-color: #c82333; /* Darker red on hover */
+    border-color: #c82333; /* Darker border on hover */
+}
+ul {
+    padding-left: 0; /* Remove default padding */
+}
+li {
+    list-style: none; /* Remove default list style */
+    padding: 20px; /* Padding inside each post */
+    margin-bottom: 20px; /* Space between posts */
+    background-color: #ffffff; /* White background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 20px rgba(0,0,0,0.1); /* Soft shadow */
+}
+img {
+    max-width: 100%; /* Responsive images */
+    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 10px; /* Space below images */
+}
